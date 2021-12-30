@@ -10,7 +10,7 @@
 <!DOCTYPE html>   `DOC``TYPE`==文件類型 
 <html>
 <head>
-    <title>Cafe Unlimited - Home</title>
+    <title>Cafe Unlimited - Home</title> #大標題
 
     <script>
         function bigger(){
@@ -41,7 +41,7 @@
 
 <!-- Banner -->
 <p>
-    <img src="images/banner.png" alt="Cafe Unlimited - Banner">
+    <img src="images/banner.png" alt="Cafe Unlimited - Banner"> #網頁背景圖片
 </p>
 
 <!-- Navigation links -->
@@ -57,14 +57,14 @@
 </p>
 
 <!--Javascript -->
-<button type="button" onclick="bigger()">Bigger</button>
+<button type="button" onclick="bigger()">Bigger</button> #調整字體大小
 <button type="button" onclick="smaller()">Smaller</button>
 
-<h1>Welcome</h1>
+<h1>Welcome</h1> #內容標題
 <p>Welcome to Cafe Unlimited. We serve award-winning breakfasts and lunches,
     with unlimited coffee, tea, and soft drinks.
     Freshly baked muffins, signature omelets, healthy salads, delicious burgers
-    and hearty sandwiches are just some of the delicious items on our menu.
+    and hearty sandwiches are just some of the delicious items on our menu. #文章段落
 
     We were voted the
     <span style="color:red;font-style:italic">
